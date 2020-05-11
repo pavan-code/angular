@@ -1,0 +1,26 @@
+// div {
+//     margin: 30px;
+// }
+// .nav-bar {
+//     justify-content: space-between;
+// }
+// span {
+//     padding-right: 15px;
+// }
+
+mat-sidenav-container {
+    height: 100%;
+}
+mat-sidenav, mat-sidenav-content {
+    padding-right: 20px;
+}
+mat-sidenav {
+    background-color:rgb(26, 145, 105);
+    width: 200px;
+}
+.center {
+    margin: 10rem;
+}
+.mat-grid-tile {
+    background-color: red;
+}
